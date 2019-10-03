@@ -3,6 +3,8 @@
 
 Author: Michael Kellam
 
+To run this program, open the SQLGUI.jar file. You must have a MySQL server with appropriate admin rights to effectively use this program.
+
 This project was created to test my basic knowledge of SQL and its commands. There is plenty of room for improvement, mainly the fact that whenever I perform an action (add,update,delete), I need to perform a query, in which I select the entire table rather than what I exactly need. But the point of this wasn't speed, rather creating a basic program that works as intended.
 
 Due to my limited knowledges of GUI implementation, I did not quite understand how to allow scrolling through the table, so it fits the entire table into the frame. Again, this is not ideal for dealing with real large-scale databases, but for conveying its function, it works perfectly.
